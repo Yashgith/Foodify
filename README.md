@@ -6,4 +6,4 @@ You Can order Food by choosing Food in menu.
 Different Sections are added.
 After Selecting Food You can order Food.
 AFter fill form We Will recive Email of Your Entered information.so that We can delivered Food in Your specified address.
-The data You Entered in form We Stored the data using Mongo Db language.
+The data You Entered in form We Stored that data using Mongo Db language.
