@@ -1,4 +1,4 @@
-***Food Ordering Website***-
+
 The Website is made using Html5,css3 and javascript.
 The Website is Fully Responsive.
 You Can order Food by choosing Food in menu.
